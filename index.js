@@ -25,3 +25,4 @@ class Circle{
   
   const c=new Circle(6);
   console.log(c.diameter);
+  
