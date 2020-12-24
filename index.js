@@ -15,10 +15,10 @@ class Circle{
       return Math.PI*this.radius*this.radius;
     }
     
-    set diameter(diameter){
+    set diameterr(diameter){
       this.diameter=diameter;
     }
-    set circumference(circumference){
+    set circumferencer(circumference){
       this.circumference=circumference;
     }
 }
